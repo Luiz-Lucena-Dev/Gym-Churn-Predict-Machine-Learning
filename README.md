@@ -1,15 +1,8 @@
-📊 Gym Churn Prediction with Machine Learning
-🇧🇷 Descrição
+# 📊 Gym Churn Prediction with Machine Learning
 
 Projeto de Machine Learning desenvolvido para prever a probabilidade de evasão (churn) de alunos em uma academia, com base em variáveis comportamentais e contratuais.
 
 O modelo permite identificar alunos com maior risco de saída e analisar o impacto financeiro da evasão, auxiliando na tomada de decisões estratégicas para retenção e aumento da receita.
-
-🇺🇸 Description
-
-Machine Learning project designed to predict customer churn in a gym environment using behavioral and contractual data.
-
-The model identifies high-risk members and estimates the financial impact of churn, supporting data-driven retention strategies.
 
 🎯 Objetivo
 Prever quais alunos têm maior probabilidade de churn
