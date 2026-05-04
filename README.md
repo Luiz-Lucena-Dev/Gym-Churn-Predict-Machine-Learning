@@ -28,6 +28,8 @@ Churn por frequência semanal
 Churn por sexo
 Impacto do uso de personal trainer
 
+<img width="1151" height="856" alt="Image" src="https://github.com/user-attachments/assets/205d9c38-39de-4171-b899-ad24fdac5850" />
+
 📌 Principais insights:
 
 Alunos com baixa frequência possuem maior risco de evasão
