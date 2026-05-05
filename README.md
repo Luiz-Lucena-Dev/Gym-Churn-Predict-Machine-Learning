@@ -29,6 +29,7 @@ Churn por sexo
 Impacto do uso de personal trainer
 
 <img width="1151" height="856" alt="Image" src="https://github.com/user-attachments/assets/205d9c38-39de-4171-b899-ad24fdac5850" />
+<img width="989" height="590" alt="Image" src="https://github.com/user-attachments/assets/09b9e931-8300-4990-8d12-ebc8fd80c776" />
 
 📌 Principais insights:
 
